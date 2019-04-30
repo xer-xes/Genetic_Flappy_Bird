@@ -18,7 +18,7 @@ public class Brain : MonoBehaviour
     public int Crash = 0;
     Rigidbody2D RB;
 
-    void Init()
+    public void Init()
     {
         //Initializes DNA
         //0 Forward
